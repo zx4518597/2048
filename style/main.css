@@ -331,21 +331,21 @@ hr {
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
     background:url("https://pic.pimg.tw/gentle91651/1458136083-4125117623.jpg");
-    backgroundsize:cover;
+    background-size:cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background: url("http://cdn2.ettoday.net/images/2141/d2141814.jpg");
-     backgroundsize:cover;
+     background-size:cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
+    
     background: url("http://static.ettoday.net/images/1295/e1295866.jpg");
-    backgroundsize:cover;
+    background-size:cover;
 }
   .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
+    
     background:url("https://www.mpweekly.com/entertainment/wp-content/uploads/2017071518/MPW2540_A072_002_crop.jpg");
-    backgroundsize:cover; 
+    background-size:cover; 
 }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
