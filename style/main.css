@@ -332,6 +332,7 @@ hr {
   .tile.tile-2 .tile-inner {
     background:url("https://pic.pimg.tw/gentle91651/1458136083-4125117623.jpg");
     background-size:cover;
+    color:rgb(0,0,0,0)
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background: url("http://cdn2.ettoday.net/images/2141/d2141814.jpg");
