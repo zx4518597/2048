@@ -322,8 +322,10 @@ hr {
   -moz-transition-property: -moz-transform;
   transition-property: transform; }
   .tile .tile-inner {
+    color:rgb(0,0,0,0)
     border-radius: 3px;
-    background: #eee4da;
+    background:url("https://scontent-lax3-1.cdninstagram.com/vp/83d85914f3c3ec4f77719e6159762d7c/5D257062/t51.2885-19/s320x320/51753262_371046447042742_6692896903710900224_n.jpg?_nc_ht=scontent-lax3-1.cdninstagram.com")
+      ;background-size:cover
     text-align: center;
     font-weight: bold;
     z-index: 10;
