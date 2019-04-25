@@ -352,19 +352,19 @@ hr {
     color:rgb(0,0,0,0);
 }
   .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
+    
     background:url("http://pinkupost.com/wp-content/uploads/2019/03/3%E5%B9%B4A%E7%B5%84_%E5%B7%9D%E6%A6%AE%E6%9D%8E%E5%A5%88_IG_non-no-Web-HAPPY-PLUS-ONE.jpg");
     background-size:cover;
     color:rgb(0,0,0,0);
 }
   .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
+    
     background:url("https://www.tv-tokyo.co.jp/information/blog/images/f9a23b3b6b2f11e681cccbdce0444b13.jpg");
     background-size:cover;
     color:rgb(0,0,0,0);
 }
   .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
+    
     background: #edcf72;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
